@@ -1,0 +1,87 @@
+
+main{
+    grid-column: 1/2;
+    grid-row: 2/4;
+    background: rgba(1, 7, 22, 0.75);
+    color: white;
+
+
+       .contenedor-uno{
+        display: grid;
+        // background-color: rgba(156, 147, 241, 0.027);
+        height:50%;
+        grid-template-columns: 40% 60%;
+        grid-template-rows: 35% 65%;
+        border-radius: 10px;
+        
+    }
+    
+            .img-retrato{
+                grid-column: 1/2;
+                justify-self: center;
+                margin-top: 10px;
+            
+        }
+        
+        
+                    .img{
+                        float: left;
+                        border: 1px solid #fff;
+                        border-radius:17px;
+                        margin-left: 5px;
+                        margin-right: 5px;
+
+                    }
+                    
+                    
+                            h3{
+                                justify-self: stretch;
+                                margin-top: 20px;
+                                margin-left: 20px;
+
+                            }
+
+
+                                .addres{
+                                    grid-column: 2/3;
+                                    grid-row: 2/3;
+                                    font-size: 13px;
+                                    justify-self: stretch;
+                                    align-self: center;
+                                    // background-color: khaki;
+                                    width: auto;
+                                    margin-left: 10px;
+                                }
+
+                                    a{
+                                        color: #fff;
+                                        text-decoration: none;
+                                        font-size: 16px;
+                                        text-decoration: underline white;
+                                        
+                                    }
+
+                                    a:link{
+                                        color: khaki;
+                                    }
+                                    
+          .contenedor-dos{
+              height: 45%;
+              display: grid;
+              grid-template-columns: 1fr;
+              grid-template-rows: 50% 50%;
+
+          }                          
+                       h4{
+
+                        align-self: center;
+                        justify-self: center;
+                       }             
+                           
+                         .enlaces-redes{
+                             justify-self: center;
+                         }
+                               .enlaces-redes>a{
+                                   padding: 9px;
+                               }     
+}

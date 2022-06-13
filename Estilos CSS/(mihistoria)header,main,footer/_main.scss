@@ -1,0 +1,27 @@
+
+main{
+    grid-column: 1/2;
+    grid-row: 2/4;
+    background: rgba(1, 7, 22, 0.75);
+
+
+       .contenedor-texto{
+        //    background-color: red;
+           height: 100%;
+           color: #fff;
+           margin-top: 20px;
+           text-indent: 4px;
+           margin-left: 5px;
+           margin-right: 5px;
+       }
+
+        h2{
+            font-size: 26px;
+            margin-bottom: 30px;
+            text-decoration: underline gray;
+        }
+
+            p{
+                padding: 3px;
+            }
+}
