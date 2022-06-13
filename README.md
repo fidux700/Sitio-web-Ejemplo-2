@@ -1,2 +1,30 @@
 # BarberEyJhon
 Segundo proyecto HTML + CSS + RESPONSIVE DESIGN (NO FRAMEWORK)
+
+
+--ESPAÑOL--
+
+LENGUAJE USADO:
+HTML, CSS (FLEX BOX, GRID, MEDIA QUERY) + RESPONSIVE DESIGN
+
+HERRAMIENTA USADA:
+SASS
+
+METODOLOGIA DE TRABAJO:
+MOBILE FIRST
+
+
+-----------------------------------------------------------------------------------------------
+
+--ENGLISH--
+
+USED LANGUAGE:
+HTML, CSS (FLEX BOX, GRID, MEDIA QUERY) + RESPONSIVE DESIGN
+
+
+USED TOOL:
+SASS
+
+
+WORK METHODOLOGY:
+MOBILE FIRST
