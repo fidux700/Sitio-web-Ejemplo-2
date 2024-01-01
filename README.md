@@ -1,6 +1,6 @@
 # Sitio-web-Ejemplo-2 (BarberEyJhon)
 Proyecto HTML + CSS + RESPONSIVE DESIGN (NO FRAMEWORK)
-https://fidux700.github.io/BarberEyJhon/](https://fidux700.github.io/Sitio-web-Ejemplo-2
+https://fidux700.github.io/Sitio-web-Ejemplo-2
 
 
 --ESPAÑOL--
